@@ -4,7 +4,8 @@ Uipath Hackathon Project
 # Contents
 
 ## 1. 구직자를 위한 채용정보 이메일 발송 RPA
-https://github.com/yoonth95/RPA_Uipath_Project/1.-구직자를-위한-채용정보-이메일-발송-RPA/
+- [구직자를 위한 채용정보 이메일 발송 RPA](https://github.com/yoonth95/RPA_Uipath_Project/tree/master/1.%20%EA%B5%AC%EC%A7%81%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%B1%84%EC%9A%A9%EC%A0%95%EB%B3%B4%20%EC%9D%B4%EB%A9%94%EC%9D%BC%20%EB%B0%9C%EC%86%A1%20RPA)
+&nbsp;
 #### 1.1 개요
 - 웹사이트별로 게시되는 채용 정보의 수가 광범위하고 게시된 형식이 저마다 달라 정보 습득이 어려움
 - 구직자에게 필요한 채용 정보를 수집하여 메일로 받아보게 함으로써 정보 검색의 시간을 단축시키고자 함
@@ -26,7 +27,8 @@ https://github.com/yoonth95/RPA_Uipath_Project/1.-구직자를-위한-채용정�
 
 &nbsp;
 ## 2. 상품기획 제안서 작성 및 이메일 발송 RPA
-https://github.com/yoonth95/RPA_Uipath_Project/2.-상품기획-제안서-작성-및-이메일-발송-RPA/
+- [상품기획 제안서 작성 및 이메일 발송 RPA](https://github.com/yoonth95/RPA_Uipath_Project/tree/master/2.%20%EC%83%81%ED%92%88%EA%B8%B0%ED%9A%8D%20%EC%A0%9C%EC%95%88%EC%84%9C%20%EC%9E%91%EC%84%B1%20%EB%B0%8F%20%EC%9D%B4%EB%A9%94%EC%9D%BC%20%EB%B0%9C%EC%86%A1%20RPA)
+&nbsp;
 #### 2.1 개요
 - 상품기획자가 타 유통채널에 제품을 영업하고자 할 때, 각 유통채널의 개별 특성 (수수료율, 인기상품 카테고리 등)을 고려하여 상품을 구성한 기획서를 Word로 작성하고 자동으로 이메일 발송
 - 다양한 유통채널에 대해 보다 빠르게 접촉하여 일을 진행하도록 도움
